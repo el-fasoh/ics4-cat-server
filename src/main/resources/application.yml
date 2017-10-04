@@ -9,5 +9,5 @@ spring:
   datasource:
         url: jdbc:mysql://localhost:3306/cat_1
         username: root
-        password: 1nd[mbu
+        password: ******
         driver-class-name: com.mysql.jdbc.Driver
